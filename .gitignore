@@ -1,7 +1,8 @@
-"__pycache__/" 
-".DS_Store" 
-".ipynb_checkpoints/" 
-"*.csv" 
-"*.xlsx" 
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+*.pdf
 
 !life_table.csv
