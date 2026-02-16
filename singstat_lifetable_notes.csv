@@ -1,0 +1,26 @@
+"Notes for ""Life Tables from 2003"""
+
+Column Headers:
+year - Year
+sex - Sex
+age_x - Age x (years)
+qx - Probability of dying between exact age x and age x+1
+lx - Number of survivors at exact age x
+dx - Number of deaths between exact age x and age x+1
+upcase_lx - Number of person-years lived between exact age x and age x+1
+upcase_tx - Total person-years lived after exact age x
+ex - Expectation of life at exact age x
+
+Notes:
+Data for latest year are preliminary.
+The methodology for constructing complete life tables for the Singapore resident population is presented in the Singapore Department of Statistics’ Information Paper “Complete Life Tables 2003 – 2006 for Singapore Resident Population”  which can also be found in the weblink below.
+http://www.singstat.gov.sg/-/media/files/publications/population/ip-s13.pdf
+Preliminary death rates for 2024 are derived based on the average number of deaths and mid-year population in 2023 and 2024.
+"Life expectancy data for 2020 to 2023 have been affected by higher mortality rates, particularly those observed in 2021 and 2022, arising from the COVID-19 pandemic.  As these higher mortality rates are assumed to apply throughout a lifetime, life expectancy data for 2020 to 2023 may not accurately represent the number of years individuals can expect to live, if mortality rates return to pre-pandemic levels"
+
+
+Date generated:
+27/5/2025
+
+Source:
+Singapore Department of Statistics
