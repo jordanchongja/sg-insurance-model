@@ -1,7 +1,6 @@
 # 🛡️ Singapore Insurance Strategy Dashboard
 ### Stochastic Actuarial Modeling: BTID vs. Whole Life Plans
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://sg-insurance-model.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
